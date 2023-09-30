@@ -51,12 +51,7 @@ a {
 
   }
 
-  .container{
-    maxwidth:1300px;
-    margin: auto;
-    padding-left:25px;
-    padding-right:25px;
-  }
+ 
 
   .row{ 
     display: flex;
@@ -268,7 +263,7 @@ color: #ff523b;
     margin-bottom: 20px;
   }
   .footer-col-1, .footer-col-2,.footer-col-3,.footer-col-4{
-  min-width: 150px;
+  min-width: 250px;
   margin-bottom: 20px;
   }
 
@@ -281,7 +276,7 @@ color: #ff523b;
   }
 
   .footer-col-2 img{
-    width: 120px;
+    width: 180px;
     margin-bottom: 20px;
   }
 
